@@ -1,0 +1,9 @@
+[Public]
+Object=(Name=UTTweaks.UTTItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem)
+
+[UTTweaksItem]
+MenuCaption="UT Tweaks"
+MenuHelp="Configure UTTweaks"
+
+[UTTweaksWindow]
+WindowTitle="UT Tweaks v2.0 - by rX"
