@@ -1,4 +1,4 @@
-# UT Tweaks (Legacy)
+# UT Tweaks Client-Side Version
 
 This is a client-side only mod for Unreal Tournament 1999 which adds various visual tweaks to weapons and game elements.
 
